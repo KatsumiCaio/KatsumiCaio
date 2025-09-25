@@ -22,6 +22,10 @@
 Landing page desenvolvida para uma loja de roupas femininas.  
 Tecnologias: **HTML, CSS, JavaScript**  
 
+### 🔗 [landingPageTest](https://github.com/KatsumiCaio/landingPageTest)  
+Landing page Teste desenvolvida com foo em estudio de tatuagem. 
+Tecnologias: **HTML, CSS, JavaScript**  
+
 ---
 
 ## 📊 Estatísticas do GitHub
