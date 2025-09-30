@@ -36,7 +36,7 @@ Tecnologias: **HTML, CSS, JavaScript**
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168//](https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168/]  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.katsumi@gmail.com)  
 
 ---
