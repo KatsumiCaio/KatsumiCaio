@@ -29,9 +29,9 @@ Tecnologias: **HTML, CSS, JavaScript**
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=neon)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=onedark)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=neon)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=onedark)  
 
 ---
 
