@@ -38,9 +38,7 @@ Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvid
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatsumiCaio&theme=tokyonight)
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KatsumiCaio&theme=tokyonight)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatsumiCaio&theme=tokyonight)
-[![Caio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KatsumiCaio&theme=react-dark)](https://github.com/KatsumiCaio)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatsumiCaio&theme=tokyonight)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KatsumiCaio&theme=onestar&no-frame=true&no-bg=true)
+
 
 
 ---
