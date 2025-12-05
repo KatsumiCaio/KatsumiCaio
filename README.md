@@ -54,7 +54,7 @@ Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvid
 ## 📫 Contato  
 - LinkedIn: https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168/  
 - E-mail: c.katsumi@gmail.com
-- (Se quiser) Portfólio pessoal / site — quando estiver pronto  
+
 
 ---
 
