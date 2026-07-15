@@ -38,10 +38,10 @@ Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvid
 
 <p align="center">
   <!-- Card de Estatísticas Gerais (Alternativa Estável) -->
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatsumiCaio&theme=2196f3" alt="Estatísticas de KatsumiCaio" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatsumiCaio&theme=2196f3" alt="Estatísticas de Katsumi Caio" />
 
   <!-- Card de Linguagens Mais Usadas (Alternativa Estável) -->
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatsumiCaio&theme=2196f3" alt="Linguagens mais usadas por KatsumiCaio" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatsumiCaio&theme=2196f3" alt="Linguagens mais usadas por Katsumi Caio" />
 </p>
 
 ---
