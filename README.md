@@ -37,11 +37,11 @@ Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvid
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <!-- Card de Estatísticas Gerais (Servidor Alternativo Estável) -->
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Katsumi Caio" />
-  
-  <!-- Card de Linguagens Mais Usadas (Servidor Alternativo Estável) -->
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Katsumi Caio" />
+  <!-- Card de Estatísticas Gerais (Alternativa Estável) -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatsumiCaio&theme=2196f3" alt="Estatísticas de KatsumiCaio" />
+
+  <!-- Card de Linguagens Mais Usadas (Alternativa Estável) -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatsumiCaio&theme=2196f3" alt="Linguagens mais usadas por KatsumiCaio" />
 </p>
 
 ---
