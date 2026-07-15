@@ -36,22 +36,13 @@ Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvid
 
 ### 📊 Minhas Estatísticas do GitHub
 
-Aqui estão algumas métricas sobre o meu desenvolvimento e contribuições:
-
 <p align="center">
-  <!-- Card de Estatísticas Gerais -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Katsumi Caio" />
+  <!-- Card de Estatísticas Gerais (Servidor Alternativo Estável) -->
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Katsumi Caio" />
   
-  <!-- Card de Linguagens Mais Usadas -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Katsumi Caio" />
+  <!-- Card de Linguagens Mais Usadas (Servidor Alternativo Estável) -->
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Katsumi Caio" />
 </p>
-
-<p align="center">
-  <!-- Card de Streak (Dias seguidos de commits) -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KatsumiCaio&theme=dark&hide_border=true" alt="GitHub Streak de Katsumi Caio" />
-</p>
-
-
 
 ---
 
