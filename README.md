@@ -1,66 +1,71 @@
-# Olá, eu sou Caio Katsumi 👋
+# Olá, eu sou o Caio Katsumi Matsumura! 👋
 
-## Sobre mim  
-Sou estudante de Engenharia da Computação e atualmente me dedicando a me tornar Desenvolvedor Front-End.  
-Tenho sede de aprendizado e estou sempre em busca de evoluir — com o objetivo de, no futuro, atuar como Full-Stack Developer.  
+Sou estudante de Engenharia da Computação e atualmente me dedicando a me tornar Desenvolvedor Front-End, com o objetivo de, no futuro, atuar como Full-Stack Developer. Tenho sede de aprendizado, foco em boas práticas e estou sempre em busca de evoluir.
 
 ---
 
-## 🌱 O que estou aprendendo  
-- HTML5 / CSS3 (layouts responsivos, flexbox, grid)  
-- JavaScript (ES6+, DOM, fetch/consumo de APIs)  
-- TypeScript básico  
-- Boas práticas de Git & GitHub  
+### 💻 Tecnologias e Ferramentas
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-## 💻 Tecnologias e Ferramentas  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-
----
-
-## 📂 Projetos em Destaque  
-
-### [Lunna Modas Landing Page](https://github.com/KatsumiCaio/LaddingpageLunnaModa)  
-Landing page responsiva para uma loja fictícia de roupas — construída com HTML, CSS e JavaScript; foco em layout, responsividade e experiência do usuário.  
-
-### [App-Agenda-Gustavo](https://github.com/KatsumiCaio/App-Agenda-Gustavo)  
-Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvido com TypeScript. — Em constante evolução.  
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <!-- Estatísticas Gerais pelo Heroku -->
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas de Katsumi Caio" />
-
-  <!-- Linguagens pelo Heroku -->
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## 🔭 O que vem pela frente  
-- Estudar React (ou outro framework JS moderno)  
-- Criar projetos com consumo de API e estado (state)  
-- Aprofundar TypeScript e testes básicos  
-- Desenvolver um portfólio completo como Single Page Application  
+### 🚀 Projetos em Destaque
+
+#### ⚙️ [PersonalPessoal](https://github.com/KatsumiCaio/PersonalPessoal)
+*Este projeto representa meus primeiros passos sólidos fora do desenvolvimento puramente visual (Front-End). Trata-se de uma aplicação voltada para a lógica de negócios e estruturação de dados, desenvolvida para [insira aqui o objetivo principal, ex: gerenciar treinos personalizados de forma inteligente / organizar rotinas e tarefas].*
+- **Foco de aprendizado:** Lógica de programação, modelagem de dados e arquitetura de código.
+- **Tecnologias:** TypeScript, HTML5, CSS3.
+
+#### 🛍️ [Lunna Modas Landing Page](https://github.com/KatsumiCaio/Lunna-Modas)
+*Landing page responsiva para uma loja de roupas femininas. Foco total em layout fluido, responsividade e uma excelente experiência do usuário de ponta a ponta.*
+- **Tecnologias:** HTML5, CSS3 e JavaScript.
+
+#### 📅 [App-Agenda-Gustavo](https://github.com/KatsumiCaio/App-Agenda-Gustavo)
+*Aplicativo de agendamento desenvolvido para o estúdio Gustavo Tomaz. Possui uma interface moderna, calendário integrado e fluxo otimizado para organização de horários.*
+- **Tecnologias:** TypeScript, HTML5 e CSS3.
 
 ---
 
-## 📫 Contato  
-- LinkedIn: https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168/  
-- E-mail: c.katsumi@gmail.com
+### 📊 Estatísticas
 
+<p align="center">
+  <!-- Gráfico de commits seguidos que está funcionando perfeitamente -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KatsumiCaio&theme=dark&hide_border=true" alt="GitHub Streak de Katsumi Caio" />
+</p>
 
 ---
 
-> “Aprender, errar, evoluir.”  
+### 🎯 O que vem pela frente (Roadmap)
 
-Obrigado por visitar meu perfil! 🚀  
+- [ ] Estudar React (ou outro framework JS moderno) para criar Single Page Applications.
+- [ ] Criar projetos com consumo de APIs reais e gerenciamento de estado.
+- [ ] Aprofundar em TypeScript e testes automatizados básicos.
+- [ ] Desenvolver um portfólio completo e integrado.
+
+---
+
+### 📬 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:c.katsumi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Aprender, errar, evoluir.” Obrigado por visitar meu perfil! 🚀</i>
+</p>
