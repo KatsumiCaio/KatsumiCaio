@@ -34,10 +34,22 @@ Projeto de agenda para estúdio, com interface moderna e organizada. Desenvolvid
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatsumiCaio&theme=tokyonight)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KatsumiCaio&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatsumiCaio&theme=tokyonight)
+### 📊 Minhas Estatísticas do GitHub
+
+Aqui estão algumas métricas sobre o meu desenvolvimento e contribuições:
+
+<p align="center">
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Katsumi Caio" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Katsumi Caio" />
+</p>
+
+<p align="center">
+  <!-- Card de Streak (Dias seguidos de commits) -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KatsumiCaio&theme=dark&hide_border=true" alt="GitHub Streak de Katsumi Caio" />
+</p>
 
 
 
