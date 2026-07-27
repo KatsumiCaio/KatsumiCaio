@@ -27,7 +27,7 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 > *Adicione aqui os links para seus principais repositórios de projeto.*
 
 * 📌 **[Personal Pessoal](https://github.com/KatsumiCaio/PersonalPessoal)** — App que atua como Personal Trainer passando treinos diarios e dicas de alimentação
-* 📌 **[Ladding Page Lunna Moda]((https://github.com/KatsumiCaio/LaddingpageLunnaModa))** — Modelo de Ladding page de Loja de Roupas Ficitica
+* 📌 **[Ladding Page Lunna Moda](https://github.com/KatsumiCaio/LaddingpageLunnaModa)** — Modelo de Ladding page de Loja de Roupas Ficitica
 * 📌 **[App Gustavo Tatoo](https://github.com/KatsumiCaio/Gustavo-Tatto-)** — App agenda Pessoal para Studio de tatuagem real
 ---
 
