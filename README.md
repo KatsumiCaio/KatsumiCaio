@@ -43,10 +43,9 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=about.me&logoColor=white)](https://SEU-PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-### 📊 Estatísticas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-PERFIL-LINKEDIN](https://www.linkedin.com/in/caio-katsumi-matsumura-894a84168/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:c.katsumi@gmail.com)
+
 
 
 
