@@ -33,10 +33,11 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KatsumiCaio&theme=dark&hide_border=true" alt="GitHub Streak de Katsumi Caio" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=dark&hide_border=true" alt="GitHub Streak de KatsumiCaio" />
 </p>
+
 
 ---
 
