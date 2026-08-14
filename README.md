@@ -33,8 +33,25 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dark&hide_border=true" />
+  <div align="center">
+  <h2>📊 Estatísticas do GitHub</h2>
+
+  <!-- Stats e Streak lado a lado -->
+  <a href="https://github.com/KatsumiCaio">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/KatsumiCaio">
+    <img height="165em" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=dracula&hide_border=true" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Top Linguagens -->
+  <a href="https://github.com/KatsumiCaio">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+  </a>
+</div>
+
   <img height="150" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=dark&hide_border=true" alt="GitHub Streak de KatsumiCaio" />
 </p>
 
