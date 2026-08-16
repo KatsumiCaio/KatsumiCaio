@@ -30,9 +30,6 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ---
 
 ### 📈 Estatísticas do GitHub
-
-### 📈 Estatísticas do GitHub
-
 <div align="center">
   <!-- Gráfico de Atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsumiCaio&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
