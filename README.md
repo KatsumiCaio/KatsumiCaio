@@ -31,15 +31,20 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 
 ### 📈 Estatísticas do GitHub
 
+### 📈 Estatísticas do GitHub
+
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas KatsumiCaio" />
-  <img height="155em" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=onedark&hide_border=true" alt="GitHub Streak KatsumiCaio" />
-  
+  <!-- Gráfico de Atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsumiCaio&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
   <br/><br/>
 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+  <!-- Streak de Commits -->
+  <img height="160em" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=onedark&hide_border=true" alt="GitHub Streak KatsumiCaio" />
+  
+  <!-- Linguagens Compactas -->
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </div>
-
 ---
 
 ### 📬 Vamos nos conectar?
