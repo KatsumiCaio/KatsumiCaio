@@ -37,12 +37,12 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 
   <br/><br/>
 
-  <!-- Troféus de Conquistas do GitHub (Totalmente estável) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=KatsumiCaio&theme=flat&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-  
+  <!-- Gráfico Snake / Histórico de Contribuições Estável -->
+  <img src="https://ghchart.rshah.org/216e39/KatsumiCaio" alt="GitHub Contributions Chart" width="100%" />
+
   <br/><br/>
 
-  <!-- Resumo Geral em Linha Única / Badges Dinâmicos -->
+  <!-- Badges de Resumo -->
   <img src="https://img.shields.io/github/followers/KatsumiCaio?label=Seguidores&style=flat-square&color=007ACC" />
   <img src="https://img.shields.io/github/stars/KatsumiCaio?label=Estrelas&style=flat-square&color=F7DF1E" />
   <img src="https://img.shields.io/github/commit-activity/y/KatsumiCaio/LaddingpageLunnaModa?label=Commits%20(Ano)&style=flat-square&color=38B2AC" />
