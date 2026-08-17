@@ -32,18 +32,21 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Gráfico de Atividade (Mantido - 100% Funcional) -->
+  <!-- Gráfico de Contribuição dos Últimos 30 Dias -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsumiCaio&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
   <br/><br/>
 
-  <!-- Streak de Commits (Mantido - 100% Funcional) -->
-  <img height="160em" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=onedark&hide_border=true" alt="GitHub Streak KatsumiCaio" />
+  <!-- Troféus de Conquistas do GitHub (Totalmente estável) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=KatsumiCaio&theme=flat&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
   
-  <!-- Linguagens Mais Usadas (Substituto Estável via Metrics) -->
-  <img height="160em" src="https://metrics.lecoq.io/KatsumiCaio?template=classic&base=&languages=1&languages.limit=6&languages.colors=github&languages.sections=most-used&languages.details=bytes-size&config.timezone=America%2FSao_Paulo" alt="Linguagens mais usadas" />
+  <br/><br/>
+
+  <!-- Resumo Geral em Linha Única / Badges Dinâmicos -->
+  <img src="https://img.shields.io/github/followers/KatsumiCaio?label=Seguidores&style=flat-square&color=007ACC" />
+  <img src="https://img.shields.io/github/stars/KatsumiCaio?label=Estrelas&style=flat-square&color=F7DF1E" />
+  <img src="https://img.shields.io/github/commit-activity/y/KatsumiCaio/LaddingpageLunnaModa?label=Commits%20(Ano)&style=flat-square&color=38B2AC" />
 </div>
----
 
 ### 📬 Vamos nos conectar?
 
