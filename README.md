@@ -30,17 +30,18 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ---
 
 ### 📈 Estatísticas do GitHub
+
 <div align="center">
-  <!-- Gráfico de Atividade -->
+  <!-- Gráfico de Atividade (Mantido - 100% Funcional) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsumiCaio&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
   <br/><br/>
 
-  <!-- Streak de Commits -->
+  <!-- Streak de Commits (Mantido - 100% Funcional) -->
   <img height="160em" src="https://streak-stats.demolab.com?user=KatsumiCaio&theme=onedark&hide_border=true" alt="GitHub Streak KatsumiCaio" />
   
-  <!-- Linguagens Compactas -->
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+  <!-- Linguagens Mais Usadas (Substituto Estável via Metrics) -->
+  <img height="160em" src="https://metrics.lecoq.io/KatsumiCaio?template=classic&base=&languages=1&languages.limit=6&languages.colors=github&languages.sections=most-used&languages.details=bytes-size&config.timezone=America%2FSao_Paulo" alt="Linguagens mais usadas" />
 </div>
 ---
 
