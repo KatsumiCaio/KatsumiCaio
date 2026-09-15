@@ -31,8 +31,6 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 
 ### 📈 Estatísticas do GitHub
 
-  <!-- Histórico de Contribuições (ghchart) -->
-  <img src="https://ghchart.rshah.org/216e39/KatsumiCaio" alt="GitHub Contributions Chart" width="100%" />
 
 <div align="center">
   <!-- Estatísticas Gerais & Linguagens Mais Usadas -->
