@@ -32,20 +32,21 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Gráfico de Contribuição dos Últimos 30 Dias -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsumiCaio&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <!-- Estatísticas Gerais & Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
   <br/><br/>
 
-  <!-- Gráfico Snake / Histórico de Contribuições Estável -->
+  <!-- Histórico de Contribuições (ghchart) -->
   <img src="https://ghchart.rshah.org/216e39/KatsumiCaio" alt="GitHub Contributions Chart" width="100%" />
 
   <br/><br/>
 
   <!-- Badges de Resumo -->
-  <img src="https://img.shields.io/github/followers/KatsumiCaio?label=Seguidores&style=flat-square&color=007ACC" />
-  <img src="https://img.shields.io/github/stars/KatsumiCaio?label=Estrelas&style=flat-square&color=F7DF1E" />
-  <img src="https://img.shields.io/github/commit-activity/y/KatsumiCaio/LaddingpageLunnaModa?label=Commits%20(Ano)&style=flat-square&color=38B2AC" />
+  <img src="https://img.shields.io/github/followers/KatsumiCaio?label=Seguidores&style=flat-square&color=007ACC" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/KatsumiCaio/LaddingpageLunnaModa?label=Estrelas%20(Projeto)&style=flat-square&color=F7DF1E" alt="Estrelas" />
+  <img src="https://img.shields.io/github/commit-activity/y/KatsumiCaio/LaddingpageLunnaModa?label=Commits%20(Ano)&style=flat-square&color=38B2AC" alt="Commits no Ano" />
 </div>
 
 ### 📬 Vamos nos conectar?
