@@ -32,9 +32,9 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Estatísticas Gerais & Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<!-- Estatísticas Gerais & Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
 
   <br/><br/>
 
