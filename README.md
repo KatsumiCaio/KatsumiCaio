@@ -31,9 +31,13 @@ Desenvolvedor **Front-End** em constante evolução rumo ao **Full Stack**. Sou 
 
 ### 📈 Estatísticas do GitHub
 
+  <!-- Histórico de Contribuições (ghchart) -->
+  <img src="https://ghchart.rshah.org/216e39/KatsumiCaio" alt="GitHub Contributions Chart" width="100%" />
+
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=KatsumiCaio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Estatísticas Gerais & Linguagens Mais Usadas -->
+  <img src="https://github-stats-extended.vercel.app/api?username=KatsumiCaio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KatsumiCaio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
 
   <br/><br/>
 
